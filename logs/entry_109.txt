@@ -1,0 +1,1 @@
+[109] fixed icon sizing
