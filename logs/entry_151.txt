@@ -1,0 +1,1 @@
+[151] added static export config
